@@ -1,0 +1,25 @@
+{
+  "name": "タイプ相性チェッカー",
+  "short_name": "TAT",
+  "description": "ポケモンのタイプ相性を調べるWebアプリ",
+  "theme_color": "#40e0d0",
+  "background_color": "#0d1b2a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/tat_icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/tat_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
