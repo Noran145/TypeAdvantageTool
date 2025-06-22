@@ -1,8 +1,8 @@
-const CACHE_NAME = 'type-checker-v2';
+const CACHE_NAME = 'type-checker-v3';
 const urlsToCache = [
-  '/',
-  '/tat_icon.png',
-  '/manifest.json'
+  '/TypeAdvantageTool/',
+  '/TypeAdvantageTool/tat_icon.png',
+  '/TypeAdvantageTool/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
