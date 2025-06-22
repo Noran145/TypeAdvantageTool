@@ -1,9 +1,8 @@
-const CACHE_NAME = 'type-checker-v1';
+const CACHE_NAME = 'type-checker-v2';
 const urlsToCache = [
   '/',
-  '/static/js/bundle.js',
-  '/static/css/main.css',
-  '/tat_icon.png'
+  '/tat_icon.png',
+  '/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
