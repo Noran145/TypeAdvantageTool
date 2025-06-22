@@ -1,4 +1,4 @@
-const CACHE_NAME = 'type-checker-v3';
+const CACHE_NAME = 'type-checker-v5';
 const urlsToCache = [
   '/TypeAdvantageTool/',
   '/TypeAdvantageTool/tat_icon.png',
